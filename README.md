@@ -1,0 +1,1 @@
+First project with Odin Project. Skills involved: git interfacing, html, bash.
